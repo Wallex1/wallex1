@@ -1,19 +1,17 @@
-## <div align="center">Olá pessoal <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25" width="25" ></div>
+## <div>Olá pessoal, eu sou Wállex de França! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25" width="25" ></div>
 
 <p align="justify">💻 Dev Front End</p>
 <p align="justify">🧠 No momento estudando ReactJs</p>
-<p align="justify">💼 Estou em busca de emprego!!!</p>
-<p align="justify">☕ Coffe Lover</p>
-<br>
-
-## ⚡ States:
+<p align="justify">💼 Em busca de emprego</p>
+<p align="justify">☕ Coffe Lover.</p>
+<hr>
 <br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wallex1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallex1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> <br>
 
- ## 📚 Languages:
+ ## 📚 Linguagens:
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Wallex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

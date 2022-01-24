@@ -3,8 +3,7 @@
 <p align="justify">💻 Dev Front End</p>
 <p align="justify">🧠 No momento estudando ReactJs</p>
 <p align="justify">💼 Em busca de emprego</p>
-<p align="justify">☕ Coffe Lover.</p>
-<hr>
+<p align="justify">☕ Coffe Lover</p>
 <br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wallex1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
